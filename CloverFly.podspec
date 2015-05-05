@@ -19,6 +19,14 @@ Pod::Spec.new do |s|
   
   s.requires_arc = true
   
-  s.source_files  = '*.{h,m,mm}','CloverFly/**/*.{h,m,mm}'
+
+end
+  s.source_files  = 'CloverFly/LxFileManager/**/*.{h,m,mm}
 	s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit' 
+end
+
+
+s.subspec 'Security' do |ss|
+    ss.source_files = 'CloverFly/LxCategory/**/*.{h,m,mm}
+#    ss.frameworks = 'Security'
 end
