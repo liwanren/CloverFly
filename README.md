@@ -1,3 +1,0 @@
-# CloverFly
-pods
-pods
