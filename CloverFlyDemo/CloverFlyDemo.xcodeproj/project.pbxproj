@@ -14,7 +14,7 @@
 		B3AB3BB51AF8938000987C1F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3AB3BB41AF8938000987C1F /* Images.xcassets */; };
 		B3AB3BB81AF8938000987C1F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3AB3BB61AF8938000987C1F /* LaunchScreen.xib */; };
 		B3AB3BC41AF8938000987C1F /* CloverFlyDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B3AB3BC31AF8938000987C1F /* CloverFlyDemoTests.m */; };
-		B3AB3BD21AF8955200987C1F /* EzSystemInfo.mm in Sources */ = {isa = PBXBuildFile; fileRef = B3AB3BD11AF8955200987C1F /* EzSystemInfo.mm */; };
+		B3AB3C091AF8BD2100987C1F /* LxFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B3AB3C081AF8BD2100987C1F /* LxFileManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		B3AB3BBD1AF8938000987C1F /* CloverFlyDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CloverFlyDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3AB3BC21AF8938000987C1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B3AB3BC31AF8938000987C1F /* CloverFlyDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CloverFlyDemoTests.m; sourceTree = "<group>"; };
-		B3AB3BD01AF8955200987C1F /* EzSystemInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EzSystemInfo.h; sourceTree = "<group>"; };
-		B3AB3BD11AF8955200987C1F /* EzSystemInfo.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = EzSystemInfo.mm; sourceTree = "<group>"; };
+		B3AB3C071AF8BD2100987C1F /* LxFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LxFileManager.h; sourceTree = "<group>"; };
+		B3AB3C081AF8BD2100987C1F /* LxFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LxFileManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 		B3AB3B9B1AF8938000987C1F = {
 			isa = PBXGroup;
 			children = (
-				B3AB3BCE1AF8955200987C1F /* CloverFly */,
+				B3AB3C051AF8BD2100987C1F /* CloverFly */,
 				B3AB3BA61AF8938000987C1F /* CloverFlyDemo */,
 				B3AB3BC01AF8938000987C1F /* CloverFlyDemoTests */,
 				B3AB3BA51AF8938000987C1F /* Products */,
@@ -123,22 +123,22 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B3AB3BCE1AF8955200987C1F /* CloverFly */ = {
+		B3AB3C051AF8BD2100987C1F /* CloverFly */ = {
 			isa = PBXGroup;
 			children = (
-				B3AB3BCF1AF8955200987C1F /* LxSystemInfo */,
+				B3AB3C061AF8BD2100987C1F /* LxFileManager */,
 			);
 			name = CloverFly;
 			path = ../CloverFly;
 			sourceTree = "<group>";
 		};
-		B3AB3BCF1AF8955200987C1F /* LxSystemInfo */ = {
+		B3AB3C061AF8BD2100987C1F /* LxFileManager */ = {
 			isa = PBXGroup;
 			children = (
-				B3AB3BD01AF8955200987C1F /* EzSystemInfo.h */,
-				B3AB3BD11AF8955200987C1F /* EzSystemInfo.mm */,
+				B3AB3C071AF8BD2100987C1F /* LxFileManager.h */,
+				B3AB3C081AF8BD2100987C1F /* LxFileManager.m */,
 			);
-			path = LxSystemInfo;
+			path = LxFileManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,9 +242,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B3AB3BB01AF8938000987C1F /* ViewController.m in Sources */,
+				B3AB3C091AF8BD2100987C1F /* LxFileManager.m in Sources */,
 				B3AB3BAD1AF8938000987C1F /* AppDelegate.m in Sources */,
 				B3AB3BAA1AF8938000987C1F /* main.m in Sources */,
-				B3AB3BD21AF8955200987C1F /* EzSystemInfo.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +439,7 @@
 				B3AB3BC91AF8938000987C1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B3AB3BCA1AF8938000987C1F /* Build configuration list for PBXNativeTarget "CloverFlyDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -447,6 +448,7 @@
 				B3AB3BCC1AF8938000987C1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

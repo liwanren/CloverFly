@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "This is a ClvoerFly"
   s.description  = <<-DESC
-                   This is a ClvoerFlyPods and This is a ClvoerFlyPods
+                   This is a ClvoerFly and This is a ClvoerFly
                    DESC
 
   s.homepage     = "https://github.com/liwanren/CloverFly"
