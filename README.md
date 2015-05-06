@@ -49,7 +49,7 @@
 * 1.1.45[一些常用的宏定义](https://github.com/twobitlabs/TBMacros)
 * 1.1.46[为Ruby程序员带来的字符串相关功能](https://github.com/zdavison/NSString-Ruby)
 * 1.1.47[CoreData包装的活动记录 有RoR风格的API](https://github.com/supermarin/ObjectiveRecord)
-* ####1.2    基础功能
+####1.2    基础功能
 * 1.2.1[纯C的一些常用媒体文件的解析读取](https://github.com/panzi/mediaextract)
 * 1.2.2[一个估计是java ee写多了的人搞的。。注解依赖注入xx工厂之类的](https://github.com/atomicobject/objection)
 * 1.2.3[IoC容器啊～～](https://github.com/typhoon-framework/Typhoon)
@@ -84,7 +84,7 @@
 * 1.2.32[日期的解析，格式化等，支持多语言](https://github.com/YannickL/YLMoment)
 * 1.2.33[各种奇怪的手势检测](https://github.com/chrismiles/CMUnistrokeGestureRecognizer)
 * 1.2.34[常见算法的ObjC实现，包括排序、查找、数组、字符串、常用数据结构..](https://github.com/EvgenyKarkan/EKAlgorithms)
-* ####1.3    框架/封装
+####1.3    框架/封装
 * 1.3.1[一个曾经用得广泛的庞大的iOS开发框架 已不再维护](https://github.com/facebookarchive/three20)
 * 1.3.2[three20替代品 又一个庞大的框架](https://github.com/jverkoey/nimbus)
 * 1.3.3[一个基于MVC的框架, 比较大..](https://github.com/gavinkwoe/BeeFramework)
@@ -104,7 +104,7 @@
 * 1.3.17[JSON和XML包装到Object](https://github.com/uacaps/NSObject-ObjectMap)
 * 1.3.18[通过OpenGL OpenAL来实现 WebCanvas JS等,很庞大~](https://github.com/phoboslab/Ejecta)
 * 1.3.19[为SQL程序员包装一下CoreData](https://github.com/marcoarment/FCModel)
-* ####1.4    功能/封装
+####1.4    功能/封装
 * 1.4.1[获取各种设备信息 包括硬件、网络、内存、进程等等](https://github.com/Shmoopi/iOS-System-Services)
 * 1.4.2[简单获取设备信息，例如设备、空间、Provisionning](https://github.com/leverdeterre/iAppInfos)
 * 1.4.3[更好用的获取和追踪设备位置的工具，包括GPS信息](https://github.com/intuit/LocationManager)
@@ -135,8 +135,8 @@
 * 1.4.28[AutoLayout的封装](https://github.com/cloudkite/Masonry)
 * 1.4.29[AutoLayout的封装 貌似比较好用](https://github.com/iMartinKiss/KeepLayout)
 * 1.4.30[定义enum来获取和判断设备型号](https://github.com/jaredsinclair/JTSHardwareInfo)
-* ###2  网络
-* ####2.1    基础
+###2  网络
+####2.1    基础
 * 2.1.1[很棒的HTTP网络通信库](https://github.com/AFNetworking/AFNetworking)
 * 2.1.2[一个HTTP库 同样很知名 性能好,稳定 但已不再维护](https://github.com/pokeb/asi-http-request)
 * 2.1.3[一个HTTP库 支持Mac 同样也不错](https://github.com/MugunthKumar/MKNetworkKit)
@@ -155,13 +155,13 @@
 * 2.1.16[IMAP SMTP邮件协议](https://github.com/MailCore/MailCore)
 * 2.1.17[SPDY协议~](https://github.com/twitter/CocoaSPDY)
 * 2.1.18[Node.js for iOS 7](https://github.com/node-app/Interpreter)
-* ####2.2    JSON
+####2.2    JSON
 * 2.2.1[性能非常好 (只比Apple原生的差一点)](https://github.com/johnezang/JSONKit)
 * 2.2.2[SBJson 曾经用得很广泛的JSON 性能差](https://github.com/stig/json-framework)
 * 2.2.3[又一个JSON库](https://github.com/TouchCode/TouchJSON)
 * 2.2.4[一个JSON库 可以支持流解析 支持Mac](https://github.com/gabriel/yajl-objc)
 * 2.2.5[一个构建JSON Model的工具和库](https://github.com/icanzilb/JSONModel)
-* ####2.3    XML/Html
+####2.3    XML/Html
 * 2.3.1[Feed/Atom解析](https://github.com/mwaterfall/MWFeedParser)
 * 2.3.2[RSS Atom解析](https://github.com/H2CO3/RSSKit)
 * 2.3.3[提供Html和XML的解析](https://github.com/Objective3/ElementParser)
@@ -178,7 +178,7 @@
 * 2.3.14[一个渲染Markdown到HTML的小引擎](https://github.com/mdiep/MMMarkdown)
 * 2.3.15[在NSAttrbuteString和Html之间转换](https://github.com/IdeasOnCanvas/Ashton)
 * 2.3.16[XML解析成json～](https://github.com/Zedenem/XMLParser)
-* ####2.4    功能性
+####2.4    功能性
 * 2.4.1[网络图片&缓存,很棒,很多App都在用](https://github.com/rs/SDWebImage)
 * 2.4.2[网络图片&缓存,Path开发](https://github.com/path/FastImageCache)
 * 2.4.3[下载使用网络图片的库](https://github.com/enormego/EGOImageLoading)
@@ -193,7 +193,7 @@
 * 2.4.12[url缓存](https://github.com/rs/SDurlCache)
 * 2.4.13[libgit的包装 挺庞大](https://github.com/libgit2/objective-git)
 * 2.4.14[RoR风格的网络交互API](https://github.com/dingbat/nsrails)
-* ####2.5    SDK
+####2.5    SDK
 * 2.5.1[Facebook的SDK](https://github.com/facebook/facebook-ios-sdk)
 * 2.5.2[一套Twtter库](https://github.com/mattgemmell/MGTwitterEngine)
 * 2.5.3[Twitter的OAuth功能](https://github.com/bengottlieb/Twitter-OAuth-iPhone)
@@ -204,7 +204,7 @@
 * 2.5.8[spotify官方SDK](https://github.com/spotify/cocoalibspotify)
 * 2.5.9[Jetpac 图片识别的SDK](https://github.com/jetpacapp/DeepBeliefSDK)
 * 2.5.10[访问 dropbox GDrive之类的云存储](https://github.com/GrahamDennis/GDFileManagerKit)
-* ###3  音频
+###3  音频
 * 3.1[列出和播放iOS系统声音~](https://github.com/TUNER88/iOSSystemSoundsLibrary)
 * 3.2[一个声音库 录音放音 页面上有CoreAudio的教程链接](https://github.com/alexbw/novocaine)
 * 3.3[一个声音库 包装了CoreAudio](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
@@ -232,7 +232,7 @@
 * 3.25[一个跨平台的音乐软件～ not iOS](https://github.com/musescore/MuseScore)
 * 3.26[一个SF2的处理库(Github上有详细说明) An Open SFZ player & SF2 based on SFZero](https://github.com/WhiteNoise/OpenSFZ)
 * 3.27[一个Linux下PCM库 有sf2 midi等处理过程](https://github.com/alsaplayer/alsaplayer)
-* ###4  游戏
+###4  游戏
 * 4.1[2D游戏引擎 (SpriteKit后来居上了..)](https://github.com/cocos2d/cocos2d-iphone)
 * 4.2[cocos2d的扩展](https://github.com/cocos2d/cocos2d-iphone-extensions)
 * 4.3[cocos2d中画出平滑的曲线](https://github.com/krzysztofzablocki/smooth-drawing)
@@ -242,8 +242,8 @@
 * 4.7[一个很完整的2D小游戏,支持对战,已在AppStore上架](https://github.com/seanhess/wizardwar)
 * 4.8[开源游戏引擎 2D 1.0版](https://github.com/PrimaryFeather/Sparrow-Framework)
 * 4.9[开源游戏引擎 2D 2.0版](https://github.com/Gamua/Sparrow-Framework)
-* ###5  图像
-* ####5.1    GPU OpenGL
+###5  图像
+####5.1    GPU OpenGL
 * 5.1.1[基于GPU的实时图像视频处理 ](https://github.com/BradLarson/GPUImage)
 * 5.1.2[一个GPU实时处理的库 类似GPUImage](https://github.com/xissburg/XBImageFilters)
 * 5.1.3[一个OpenGL的包装 用起来更方便](https://github.com/creaceed/CeedGL)
@@ -256,7 +256,7 @@
 * 5.1.10[显示3D地形图 用OpenGL](https://github.com/RossAnderson/EarthView)
 * 5.1.11[一个挺有意思的AR](https://github.com/sonsongithub/CoreAR)
 * 5.1.12[一个虚拟现实的库](https://github.com/benlodotcom/VRToolKit)
-* ####5.2    图像处理
+####5.2    图像处理
 * 5.2.1[一套图像处理的库 加在UIImage上](https://github.com/Nyx0uf/NYXImagesKit)
 * 5.2.2[UIImage扩展 类似PS的功能 用CoreImage](https://github.com/esilverberg/ios-image-filters)
 * 5.2.3[UIImage扩展 简单的一些处理](https://github.com/shu223/vImageCategory)
@@ -292,7 +292,7 @@
 * 5.2.33[一个AVFoundation的封装、照相等功能](https://github.com/thisandagain/cam)
 * 5.2.34[几个Filter 速度也不行](https://github.com/OmidH/Filtrr)
 * 5.2.35[ZXing 二维码/条形码处理](https://github.com/TheLevelUp/ZXingObjC)
-* ####5.3    颜色
+####5.3    颜色
 * 5.3.1[UIColor扩展和色板](https://github.com/kballard/uicolor-utilities)
 * 5.3.2[一系列UIColor扩展](https://github.com/thisandagain/color)
 * 5.3.3[一个UIColor扩展](https://github.com/nicklockwood/ColorUtils)
@@ -311,7 +311,7 @@
 * 5.3.16[提供不少常用色 和几个方法](https://github.com/bennyguitar/Colours)
 * 5.3.17[类似iTunes的 取一幅图画的主要背景颜色等 (这是个Mac功能)](https://github.com/panicinc/ColorArt)
 * 5.3.18[iOS7的几种常用颜色](https://github.com/claaslange/iOS7Colors)
-* ####5.4    绘图库
+####5.4    绘图库
 * 5.4.1[画饼图/折线图的库 用CA](https://github.com/honcheng/iOSPlot)
 * 5.4.2[扁平风格的折线图/柱形图](https://github.com/kevinzhow/PNChart)
 * 5.4.3[扁平风格的饼图/柱形图](https://github.com/xhacker/TEAChart)
@@ -331,8 +331,8 @@
 * 5.4.17[饼图~有动画](https://github.com/xyfeng/XYPieChart)
 * 5.4.18[折线图，有动画，功能一般](https://github.com/Boris-Em/BEMSimpleLineGraph)
 * 5.4.19[动画画出文字和图形的轮廓~](https://github.com/ole/Animated-Paths)
-* ###6  动画/效果
-* ####6.1    CA
+###6  动画/效果
+####6.1    CA
 * 6.1.1[基于CASharpLayer实现的关键帧补间动画，比较方便](https://github.com/DenHeadless/Shapes)
 * 6.1.2[一套完整的CA动画Demo](https://github.com/neror/CA360)
 * 6.1.3[一套CA动画展示Demo](https://github.com/briancoyner/Core-Animation-Fun-House)
@@ -342,7 +342,7 @@
 * 6.1.7[用CA实现的各种有趣的粒子效果](https://github.com/lichtschlag/Dazzle)
 * 6.1.8[CA和3D效果等](https://github.com/hfossli/AGGeometryKit)
 * 6.1.9[基于block的CA动画](https://github.com/robb/RBBAnimation)
-* ####6.2    动画曲线
+####6.2    动画曲线
 * 6.2.1[Facebook Paper的动画库，增加了弹簧和减速的曲线，允许动画任意属性](https://github.com/facebook/pop)
 * 6.2.2[用属性来配置pop动画，方便开发](https://github.com/matthewcheok/POP-MCAnimate)
 * 6.2.3[那些jQuery带的动画速率曲线](https://github.com/NachoSoto/NSBKeyframeAnimation)
@@ -353,7 +353,7 @@
 * 6.2.8[iOS7的景深背景动画效果 一般..](https://github.com/acoomans/Parallax)
 * 6.2.9[25种动画曲线~~~](https://github.com/mysterioustrousers/MTAnimation)
 * 6.2.10[弹跳的动画曲线](https://github.com/khanlou/SKBounceAnimation)
-* ####6.3    常见动画
+####6.3    常见动画
 * 6.3.1[果冻吸入的效果 和Mac里最小化的效果一样～～很棒~](https://github.com/Ciechan/BCGenieEffect)
 * 6.3.2[一套类似CoverFlow的空间,非常棒,可选多样式,可用于Mac](https://github.com/nicklockwood/iCarousel)
 * 6.3.3[类似CoverFlow的效果 挺老的工程 支持Mac](https://github.com/thefaj/OpenFlow)
@@ -381,15 +381,15 @@
 * 6.3.25[很多有趣的导航视图切换动画](https://github.com/applidium/ADTransitionController)
 * 6.3.26[iOS7下，一些自定义转场动画~ 挺棒](https://github.com/ColinEberhardt/VCTransitionsLibrary)
 * 6.3.27[IFTTT简介的动画框架，是个关键帧动画框架哟~](https://github.com/IFTTT/JazzHands)
-* ###7  控件
-* ####7.1    HUD
+###7  控件
+####7.1    HUD
 * 7.1.1[一个HUD 用得很广泛 无阴影 全屏模态](https://github.com/jdg/MBProgressHUD)
 * 7.1.2[和MBHUD一样 但有更新 添加了BLock iOS6](https://github.com/matej/MBProgressHUD)
 * 7.1.3[很棒的HUD 有阴影和动画~](https://github.com/atomton/ATMHud)
 * 7.1.4[一个HUD 样式类似MB_HUD 有一些进度等](https://github.com/TransitApp/SVProgressHUD)
 * 7.1.5[又一个HUD](https://github.com/Hardtack/HTProgressHUD)
 * 7.1.6[Windows Phone 7风格风火轮](https://github.com/EugeneTrapeznikov/ETActivityIndicatorView)
-* ####7.2    Slider
+####7.2    Slider
 * 7.2.1[一个很小清新的Slider 用CA画的](https://github.com/jasonmorrissey/JMSlider)
 * 7.2.2[滑动出pop显示数字、可变颜色的Slider](https://github.com/alskipp/ASValueTrackingSlider)
 * 7.2.3[按住可以出Pop的UISlider](https://github.com/mneuwert/iOS-Custom-Controls)
@@ -404,7 +404,7 @@
 * 7.2.12[模拟iPhone音乐进度的表现](https://github.com/ole/OBSlider)
 * 7.2.13[仿iOS6 音量Slider,有金属光泽动画](https://github.com/TeehanLax/TLTiltSlider)
 * 7.2.14[类似iOS6录像裁减的控制条](https://github.com/romaonthego/RETrimControl)
-* ####7.3    Progress
+####7.3    Progress
 * 7.3.1[自定义ProgressBar](https://github.com/mperovic/KOAProgressBar)
 * 7.3.2[平面风格的Progress进度条](https://github.com/ddeville/DDProgressView)
 * 7.3.3[一些有趣风格的ProgressView](https://github.com/n8chur/WNProgressView)
@@ -417,11 +417,11 @@
 * 7.3.10[很简单的，能popup显示进度的条](https://github.com/alskipp/ASProgressPopUpView)
 * 7.3.11[一套不同风格的Progress：包括圆形、环形、进度、蒙板等等](https://github.com/Marxon13/M13ProgressSuite)
 * 7.3.12[由JS版SpinKit模仿得来，几个不错的ActivityIndicator](https://github.com/raymondjavaxx/SpinKit-ObjC)
-* ####7.4    StatusBar
+####7.4    StatusBar
 * 7.4.1[状态栏控件,支持iOS6、7](https://github.com/jaydee3/JDStatusBarNotification)
 * 7.4.2[状态栏的控件,但很久没更新了](https://github.com/myell0w/MTStatusBarOverlay)
 * 7.4.3[状态栏控件,提醒](https://github.com/kevingibbon/KGStatusBar)
-* ####7.5    Alert
+####7.5    Alert
 * 7.5.1[一个Block支持的Alert控件 支持自定义 不错~](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets)
 * 7.5.2[一个用来替代系统的Alert,高可定制,有iOS7风格](https://github.com/alexanderjarvis/PXAlertView)
 * 7.5.3[一个简洁的AlertView,和HUD](https://github.com/mobitar/MBAlertView)
@@ -440,7 +440,7 @@
 * 7.5.16[类似notif风格的Alert，拍扁](https://github.com/NZN/NZAlertView)
 * 7.5.17[iOS7 可自定义内容的AlertView](https://github.com/lmcd/LMAlertView)
 * 7.5.18[iOS7 可自定义内容的AlertView](https://github.com/sberrevoets/SDCAlertView)
-* ####7.6    Notification
+####7.6    Notification
 * 7.6.1[居顶部的notif (状态栏/导航栏)](https://github.com/cruffenach/CRToast)
 * 7.6.2[很简单的下方Notif实现](https://github.com/ekdevdes/EKNotifView)
 * 7.6.3[一个从上方滑下的Notif控件 类似TwieetBot](https://github.com/MugunthKumar/MKInfoPanelDemo)
@@ -449,7 +449,7 @@
 * 7.6.6[类似Tweetbot警告的下伸控件](https://github.com/onemightyroar/YRDropdownView)
 * 7.6.7[类似Tweetbot的下伸控件](https://github.com/tciuro/NoticeView)
 * 7.6.8[效果很不错的上部Notif提示](https://github.com/ajerez/AJNotificationView)
-* ####7.7    Segment
+####7.7    Segment
 * 7.7.1[多种样式和动画的控件，很棒](https://github.com/nealyoung/NYSegmentedControl)
 * 7.7.2[一个分段选择控件 类似Mac10.7测试版中的UI 很棒~](https://github.com/samvermette/SVSegmentedControl)
 * 7.7.3[一个灵活的分段控件 可以上下](https://github.com/u10int/URBSegmentedControl)
@@ -459,13 +459,13 @@
 * 7.7.7[一个离散并且凹陷效果的分段](https://github.com/rs/SDSegmentedControl)
 * 7.7.8[可以显示数字的segment，通常用于profile的顶部](https://github.com/dzenbot/DZNSegmentedControl)
 * 7.7.9[扁平风格的Segment (包含iOS7样式)](https://github.com/pepibumur/PPiFlatSegmentedControl)
-* ####7.8    Switch
+####7.8    Switch
 * 7.8.1[仿UISwicher 可以自定义 很棒](https://github.com/domesticcatsoftware/DCRoundSwitch)
 * 7.8.2[一个可以完全自定义的UISwich～～](https://github.com/twotoasters/TTSwitch)
 * 7.8.3[iOS7风格的Switch 高仿](https://github.com/KieranLafferty/KLSwitch)
 * 7.8.4[iOS7风格的Switch 效果多](https://github.com/mattlawer/MBSwitch)
 * 7.8.5[iOS7风格的Switch 效果很多～](https://github.com/bvogelzang/SevenSwitch)
-* ####7.9    Button
+####7.9    Button
 * 7.9.1[用CA画的带Glow的button 仿照系统](https://github.com/jessmartin/CoolButtons)
 * 7.9.2[用CA实现的补间动画形状按钮](https://github.com/sebastienwindal/FRDLivelyButton)
 * 7.9.3[基于FacebookPop的弹跳形状按钮](https://github.com/iBaro/VBFPopFlatButton)
@@ -477,7 +477,7 @@
 * 7.9.9[一种自定义Button 样式类似Twitter的Bootstrap 用CA画的](https://github.com/mattlawer/BButton)
 * 7.9.10[用CA绘制的特殊形状button,可以检测path touch](https://github.com/ole/OBShapedButton)
 * 7.9.11[一些用CA画的带高光的奇怪Button...](https://github.com/waterlou/UIGlossyButton)
-* ####7.10    Label/Text
+####7.10    Label/Text
 * 7.10.1[UILabel跑马灯效果](https://github.com/cbpowell/MarqueeLabel)
 * 7.10.2[Facebook Paper中的文本高亮Label,效果类似Slide to unlock](https://github.com/facebook/Shimmer)
 * 7.10.3[文本查找,支持正则,关键词高亮](https://github.com/Exile90/ICTextView)
@@ -501,7 +501,7 @@
 * 7.10.21[TextField带自动补全](https://github.com/hoteltonight/HTAutocompleteTextField)
 * 7.10.22[带有能浮动的占位符的 文本框](https://github.com/jverdi/JVFloatLabeledTextField)
 * 7.10.23[用HTML展示富文本,但能有Native类似的体验](https://github.com/mureev/CMHTMLView)
-* ####7.11    PullToRefresh
+####7.11    PullToRefresh
 * 7.11.1[支持用gif呈现的下拉动画](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh)
 * 7.11.2[一个不错的上下拉刷新的控件 里面是彩虹](https://github.com/bogardon/MSPullToRefreshController)
 * 7.11.3[下拉刷新,很早的一个控件了2年没更新了](https://github.com/enormego/EGOTableViewPullRefresh)
@@ -510,7 +510,7 @@
 * 7.11.6[一个类似似TweetBot的下拉刷新样式](https://github.com/dingtianran/HybridRefreshGestureRecognizer)
 * 7.11.7[下拉刷新](https://github.com/soffes/sspulltorefresh)
 * 7.11.8[有趣的下拉刷新：下拉出现ping-pong](https://github.com/boztalay/BOZPongRefreshControl)
-* ####7.12    Scroll/Table
+####7.12    Scroll/Table
 * 7.12.1[一个简单的左右滑动Cell 类似Twitter](https://github.com/lukeredpath/LRSlidingTableViewCell)
 * 7.12.2[UITable的左右滑动 类似Twitter](https://github.com/thermogl/TISwipeableTableView)
 * 7.12.3[在TableCell右侧添加badge 有不同风格](https://github.com/tmdvs/TDBadgedCell)
@@ -532,7 +532,7 @@
 * 7.12.19[Nav内容滑动时，自动隐藏上下两个导航栏](https://github.com/ninjinkun/NJKScrollFullScreen)
 * 7.12.20[Nav内容滑动时，自动隐藏上方导航栏](https://github.com/andreamazz/AMScrollingNavbar)
 * 7.12.21[复杂数据表格、tab展示的UI控件，适合复杂数据展示](https://github.com/Viacheslav-Radchenko/TSUIKit)
-* ####7.13    Popover
+####7.13    Popover
 * 7.13.1[CA实现的Popover 可用于iPhone,样式清新](https://github.com/runway20/PopoverView)
 * 7.13.2[高可定制Popover 样式不错，很棒](https://github.com/nicolaschengdev/WYPopoverController)
 * 7.13.3[把PopView带入的iPhone](https://github.com/chrismiles/CMPopTipView)
@@ -552,13 +552,13 @@
 * 7.13.17[在UIVIew上弹出自己画的界面 挺丑 但可以看看实现](https://github.com/Antondomashnev/ADPopupView)
 * 7.13.18[四叶草风格弹出菜单~](https://github.com/KieranLafferty/KLExpandingSelect)
 * 7.13.19[Mac的Stack弹出菜单](https://github.com/istsest/StackMenu)
-* ####7.14    GridView
+####7.14    GridView
 * 7.14.1[类似TableView但有横向分类,就像Android Launcher](https://github.com/AlanQuatermain/AQGridView)
 * 7.14.2[又一个GridView 很不错,自带横纵排序编辑等功能](https://github.com/gmoledina/GMGridView)
 * 7.14.3[又一个GridView 已经Deperacted 直接用系统的就好](https://github.com/kolinkrewinkel/KKGridView)
 * 7.14.4[又一个GridView 貌似支持类似图标样的上栏](https://github.com/allaboutapps/A3GridTableView)
 * 7.14.5[一个类似GridView的东西](https://github.com/linkedin/LIExposeController)
-* ####7.15    界面切换/导航
+####7.15    界面切换/导航
 * 7.15.1[类似Chrome左右滑动切换视图的控件](https://github.com/niktszczegolny/APExtendedPageController)
 * 7.15.2[2D上下左右导航的奇怪视图](https://github.com/mobitar/MBSpacialViewController)
 * 7.15.3[又一个 2D上下左右导航的奇怪视图..](https://github.com/MarcoSero/MSMatrixController)
@@ -580,7 +580,7 @@
 * 7.15.19[类似iOS6的下拉刷新的动画切换，水滴状拖拽](https://github.com/coolbeet/CBHazeTransitionViewController)
 * 7.15.20[滑动界面显示另一个界面 类似下拉状态栏查看天气](https://github.com/rnystrom/RNSwipeViewController)
 * 7.15.21[iOS7风格侧滑](https://github.com/romaonthego/RESideMenu)
-* ####7.16    侧滑
+####7.16    侧滑
 * 7.16.1[左右侧滑控件](https://github.com/Inferis/ViewDeck)
 * 7.16.2[iOS7 动态弹性和景深的侧滑～](https://github.com/monospacecollective/MSDynamicsDrawerViewController)
 * 7.16.3[一个很简单的侧滑控件](https://github.com/ECSlidingViewController/ECSlidingViewController)
@@ -597,7 +597,7 @@
 * 7.16.14[一个iOS7风格的毛玻璃侧滑菜单](https://github.com/romaonthego/REFrostedViewController)
 * 7.16.15[类似GoogleMap的侧滑](https://github.com/SocialObjects-Software/AMSlideMenu)
 * 7.16.16[一个由侧面划出的半透明菜单(小圆片),不错的交互效果](https://github.com/rnystrom/RNFrostedSidebar)
-* ####7.17    知名效果Demo
+####7.17    知名效果Demo
 * 7.17.1[一个类似Evernote旧版的Stack界面 绿色的](https://github.com/KieranLafferty/KLNoteViewController)
 * 7.17.2[一个类似系统Twitter分享界面~](https://github.com/romaonthego/REComposeViewController)
 * 7.17.3[一个iOS4实现的 类似iOS5的twitter分享](https://github.com/doubleencore/DETweetComposeViewController)
@@ -621,7 +621,7 @@
 * 7.17.21[iBook中 拖动图书的功能](https://github.com/lxcid/LXReorderableCollectionViewFlowLayout)
 * 7.17.22[景深效果 就像Path的封面那样](https://github.com/modocache/MDCParallaxView)
 * 7.17.23[Facebook Paper里面，跟随手势左右翻动的图片页面](https://github.com/chroman/CRMotionView)
-* ####7.18    高级功能
+####7.18    高级功能
 * 7.18.1[类似系统的输入密码界面](https://github.com/dhennessy/PAPasscode)
 * 7.18.2[又一个类似系统输入密码界面](https://github.com/aporat/KKPasscodeLock)
 * 7.18.3[能显示音视频等一堆格式文件的控件](https://github.com/exalted/PTShowcaseViewController)
@@ -658,7 +658,7 @@
 * 7.18.34[一个不错的录像Ctrl，支持滤镜](https://github.com/rFlex/SCRecorder)
 * 7.18.35[显示Youtube视频..国内无用](https://github.com/larcus94/LBYouTubeView)
 * 7.18.36[Keyboard扩展，手势支持等](https://github.com/tonqa/JustType)
-* ####7.19    套装
+####7.19    套装
 * 7.19.1[一套比较大的自定义控件库 包括不错的HUD,进度条,日历,CoverFlow等](https://github.com/devinross/tapkulibrary)
 * 7.19.2[一套完整的扁平风格的UI  (Flat)](https://github.com/Grouper/FlatUIKit)
 * 7.19.3[一套仿iOS7的控件](https://github.com/piotrbernad/FlatUI)
@@ -671,7 +671,7 @@
 * 7.19.10[一些常见功能实现的例子:HUD Table滑动,打开url用WebView等 挺老的工程](https://github.com/gimenete/iOS-boilerplate)
 * 7.19.11[iDevRecipes博客的代码,演示了如何自定义一些控件,代码比较老..](https://github.com/boctor/idev-recipes)
 * 7.19.12[一个阅读epub的](https://github.com/fedefrappi/AePubReader)
-* ####7.20    其他
+####7.20    其他
 * 7.20.1[一个仿UIPageControl的API类 可以自定义小点点～](https://github.com/Spaceman-Labs/SMPageControl)
 * 7.20.2[开的ActivityView实现](https://github.com/romaonthego/REActivityViewController)
 * 7.20.3[不错的扇形滑动控件 平面风格](https://github.com/domesticcatsoftware/DCControls)
@@ -722,7 +722,7 @@
 * 7.20.48[下边栏显示提示和动作](https://github.com/gregwym/InformaticToolbar)
 * 7.20.49[自动归类MapKit上面的标记](https://github.com/choefele/CCHMapClusterController)
 * 7.20.50[点击弹出图片，双击缩放，再点击缩回原处，这种常见的功能...](https://github.com/jaredsinclair/JTSImageViewController)
-* ###8  较完整的App
+###8  较完整的App
 * 8.1[绘画的App,超棒,Appstore上架用](https://github.com/sprang/Brushes)
 * 8.2[一个完整的矢量绘图App，很棒，已上架](https://github.com/sprang/Inkpad)
 * 8.3[Square开源了完整的viewfinder源码，包括服务端和客户端(iOS/Android) 赞！](https://github.com/viewfinderco/viewfinder)
@@ -764,7 +764,7 @@
 * 8.39[Ink出的云端文件管理](https://github.com/Ink/ThatCloud)
 * 8.40[Ink出的PDF编辑](https://github.com/Ink/ThatPDF)
 * 8.41[Ink出的图片编辑](https://github.com/Ink/ThatPhoto)
-* ###9  开发/调试/统计
+###9  开发/调试/统计
 * 9.1[Facebook iOS工程构建和测试工具,用于替代系统的xcodebuild  (CI)](https://github.com/facebook/xctool)
 * 9.2[Facebook Paper用到的原型设计工具,是Quartz Composer插件](https://github.com/facebook/origami)
 * 9.3[Facebook Paper用到的界面调整小工具,可以给产品/开发自己去调整和尝试动画/颜色等](https://github.com/facebook/Tweaks)
@@ -794,7 +794,7 @@
 * 9.27[BDD风格单元测试](https://github.com/pivotal/cedar)
 * 9.28[iOS5.1中,系统控件和App的图片资源Dump 嗯..iOS7后就没用了](https://github.com/pixelfreak/iOS-UI-Assets)
 * 9.29[导出iOS系统App及控件的图片资源 只支持到iOS5](https://github.com/0xced/iOS-Artwork-Extractor)
-* ###10  旧代码 & 奇怪的东西
+###10  旧代码 & 奇怪的东西
 * 10.1[通过plist构建界面的小东西](https://github.com/quartermaster/DB5)
 * 10.2[一套iOS的 Ad-Hoc升级框架.包含PHP服务端](https://github.com/TheRealKerni/HockeyKit)
 * 10.3[一套类似原型制作工具](https://github.com/capttaco/Briefs)
@@ -808,7 +808,7 @@
 * 10.11[Mustache模板?](https://github.com/groue/GRMustache)
 * 10.12[Titanium 的常用模块](https://github.com/appcelerator/titanium_modules)
 * 10.13[类似FontAwesome的东西,包含了一些国内网站logo](https://github.com/lexrus/fontdiao)
-* ###11  代码库大包包
+###11  代码库大包包
 * 11.1[随书代码](https://github.com/erica/iphone-3.0-cookbook-)
 * 11.2[随书代码～](https://github.com/erica/iOS-5-Cookbook)
 * 11.3[](https://github.com/erica/iOS-6-Cookbook)
@@ -818,7 +818,7 @@
 * 11.7[iOS7的一些新功能演示~](https://github.com/shu223/iOS7-Sampler)
 * 11.8[一些http:/ /mysparks.info上面的代码](https://github.com/chaozhao/MyProjects)
 * 11.9[一些Xcode代码片段](https://github.com/mattt/Xcode-Snippets)
-* ###12  Mac Only
+###12  Mac Only
 * 12.1[一个git的图形客户端](https://github.com/pieter/gitx)
 * 12.2[把UIKit克隆到Mac里](https://github.com/BigZaphod/Chameleon)
 * 12.3[一个Mac上的数据库客户端 支持Mysql Postgre Nosql Redis等](https://github.com/Induction/Induction)
@@ -878,7 +878,7 @@
 * 12.57[Homebrew图形管理~](https://github.com/brunophilipe/Cakebrew)
 * 12.58[Sequel Pro 访问MySQL](https://github.com/sequelpro/sequelpro)
 * 12.59[两个App，一个是Midi monitoring，一个是SysEx](https://github.com/krevis/MIDIApps)
-* ###13  Xcode插件/开发
+###13  Xcode插件/开发
 * 13.1[Xcode5插件 管理和发现插件～～](https://github.com/mneorr/Alcatraz)
 * 13.2[Xcode5插件 为不同的变量类型赋予不同的颜色～](https://github.com/kolinkrewinkel/Polychromatic)
 * 13.3[Xcode5插件 clang-format 效果一般](https://github.com/travisjeffery/ClangFormat-Xcode)
@@ -904,7 +904,7 @@
 * 13.23[原生iOS/Mac粒子效果设计](https://github.com/icanzilb/UIEffectDesignerView)
 * 13.24[开发工具 制作多语言](https://github.com/stefanceriu/SCStringsUtility)
 * 13.25[通过APNS发推送～](https://github.com/blommegard/APNS-Pusher)
-* ###14  非Github
+###14  非Github
 * 14.1[Cooliris出品基础工具包,Github有Clone](https://code.google.com/p/cooliris-toolkit/)
 * 14.2[强大的2D数据绘图库](https://code.google.com/p/core-plot/)
 * 14.3[神奇的东西,将Java翻译成ObjC～ Google出品](https://code.google.com/p/j2objc/)
