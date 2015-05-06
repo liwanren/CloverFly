@@ -50,7 +50,7 @@
 * 1.1.46[为Ruby程序员带来的字符串相关功能](https://github.com/zdavison/NSString-Ruby)
 * 1.1.47[CoreData包装的活动记录 有RoR风格的API](https://github.com/supermarin/ObjectiveRecord)
 * 
-####1.2    基础功能
+* ####1.2    基础功能
 * 1.2.1[纯C的一些常用媒体文件的解析读取](https://github.com/panzi/mediaextract)
 * 1.2.2[一个估计是java ee写多了的人搞的。。注解依赖注入xx工厂之类的](https://github.com/atomicobject/objection)
 * 1.2.3[IoC容器啊～～](https://github.com/typhoon-framework/Typhoon)
