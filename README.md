@@ -2,7 +2,7 @@
 ##Github上很有用的一些开源代码
 ###1系统基础库                                                                                                      
 ####1.1 Category/Util                                                                                            
-1.1.1* [一套Category类型的库,附带很多自定义控件 功能不错～](https://github.com/soffes/sstoolkit)                                   
+1.1.1 [一套Category类型的库,附带很多自定义控件 功能不错～](https://github.com/soffes/sstoolkit)                                   
 1.1.2* [又一套Category类型的 Kit](https://github.com/andrei512/APUtils)                                              
 1.1.3* [又一套Category类型的 Kit](https://github.com/quartermaster/QSKit)                                            
 1.1.4* [将Block风格带入UIKit和Founcation](https://github.com/zwaldowski/BlocksKit)                                   
